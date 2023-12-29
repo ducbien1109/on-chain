@@ -19,7 +19,7 @@ const History = (props) => {
             <span className="font-bold">Người gửi:</span> {block.sender}
           </p>
           Hợp đồng:
-          <img width={200} src={block.imgs} alt="" className="font-bold" />
+          <Image width={200} src={block.imgs} alt="" className="font-bold" />
           <p>
             <span className="font-bold">Người nhận:</span> {block.recipient}
           </p>
