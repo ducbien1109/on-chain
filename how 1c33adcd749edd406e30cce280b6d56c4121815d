@@ -1,0 +1,36 @@
+[33mcommit 1c33adcd749edd406e30cce280b6d56c4121815d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: dcc13c3 7a82e1b
+Author: ducbien1109 <ducbien911@gmail.com>
+Date:   Fri Dec 29 12:16:02 2023 +0700
+
+    Resolve conflicts in TransactionHistory.json
+
+[33mcommit dcc13c3d65c4603007cf46f41b5712cdfa756f87[m
+Author: ducbien1109 <ducbien911@gmail.com>
+Date:   Fri Dec 29 12:11:17 2023 +0700
+
+    update
+
+[33mcommit a37c2f8ebe6f50293142a6250939c238122a288c[m
+Author: ducbien1109 <ducbien911@gmail.com>
+Date:   Fri Dec 29 11:55:56 2023 +0700
+
+    update-img
+
+[33mcommit 7a82e1b2a696ef536033da15b28e8fee2447c57d[m
+Author: quy <quy_2051220145@dau.edu.vn>
+Date:   Fri Dec 29 11:20:30 2023 +0700
+
+    update-smart
+
+[33mcommit cd0d42111842dcb089e027f437418b8d433e3a18[m
+Author: quyy15k <97433014+quyy15k@users.noreply.github.com>
+Date:   Fri Dec 29 00:35:48 2023 +0700
+
+    Add files via upload
+
+[33mcommit 989ddb8b3519ef8c457f669ce3472dac66936399[m
+Author: ducbien1109 <ducbien911@gmail.com>
+Date:   Thu Dec 28 21:00:00 2023 +0700
+
+    main
